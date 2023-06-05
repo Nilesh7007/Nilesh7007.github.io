@@ -17,7 +17,7 @@ document.getElementById('resume-button-1').addEventListener("click", () => {
   window.open("https://drive.google.com/file/d/1kxNDNej5oLHUwG-obJzqBXyn6iHCNXWT/view?usp=sharing", "_blank");
 });
 
-document.getElementById('resume-button-2').addEventListener("click", () => {
-  window.open("https://drive.google.com/file/d/1kxNDNej5oLHUwG-obJzqBXyn6iHCNXWT/view?usp=sharing", "_blank");
-});
+// document.getElementById('resume-button-2').addEventListener("click", () => {
+//   window.open("https://drive.google.com/file/d/1kxNDNej5oLHUwG-obJzqBXyn6iHCNXWT/view?usp=sharing", "_blank");
+// });
 
